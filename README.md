@@ -16,9 +16,9 @@
 - **Databases:** MySQL, PostgreSQL  
 
 ## 📫 Connect With Me  
-- **GitHub:** [github.com/your-username](https://github.com/your-username)  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **Email:** your.email@example.com  
+- **GitHub:** https://github.com/Rashini-Kokila/ 
+- **LinkedIn:** https://www.linkedin.com/in/rashini-kokila-wijayananda-064203211/
+- **Email:** rashiniwijayananda@gmail.com  
 
 💡 *Always open to learning, collaborating, and solving complex problems!*  
 
